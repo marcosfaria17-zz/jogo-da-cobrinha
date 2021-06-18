@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header .container {
+  flex-direction: row;
+}
+header h3 {
+  margin-right: 20px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.area-jogo {
+  margin-top: 10px;
+  height: 95vh;
+  width: 95;
+}
